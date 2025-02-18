@@ -1,8 +1,35 @@
+.countdown-timer {
+    margin: 10px 0;
+    color: #ff4444;
+    font-weight: bold;
+    font-size: 1.2em;
+    text-align: center;
+}
 
+.social-links {
+    margin-bottom: 20px;
+    text-align: center;
+}
 
+.social-icon {
+    font-size: 24px;
+    margin: 0 10px;
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
 
+.social-icon:hover {
+    color: #666;
+}
 
+.email-link {
+    display: block;
+    margin-top: 10px;
+    color: #333;
+    text-decoration: none;
+}
 
-
-
-}    margin: 10px 0;    color: #ff4444;    font-weight: bold;    font-size: 1.2em;    text-align: center;.countdown-timer {
+.email-link:hover {
+    text-decoration: underline;
+}
